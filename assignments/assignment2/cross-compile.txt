@@ -1,0 +1,2 @@
+gcc version 10.3.1
+/usr/aarch64-none-linux-gnu/sys-root
